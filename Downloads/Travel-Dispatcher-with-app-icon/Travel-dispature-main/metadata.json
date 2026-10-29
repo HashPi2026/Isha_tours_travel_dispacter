@@ -1,0 +1,6 @@
+{
+  "name": "Travel Dispatcher",
+  "description": "Private travel dispatcher portal for inquiries, middleman ledger, quotation dispatching, and partner agent directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
